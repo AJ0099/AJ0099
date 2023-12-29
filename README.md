@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AJ0099
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on AI project
+- 💞️ I’m looking to collaborate on Smaller Projects
 - 📫 How to reach me ...
 
 <!---
